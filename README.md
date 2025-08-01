@@ -24,4 +24,9 @@ Elle propose une interface simple pour ajouter, modifier et visualiser les habit
 
 - Flutter / Dart  
 - Packages Flutter utilisés (ex : `flutter_heatmap_calendar` pour la visualisation)
+- Base de données Isar
+
+---
+
+⬇️ Télécharger l’APK : [Release v1.0.0](https://github.com/liiloouu16/flutter-daily-routine-project/releases/download/v1.0.0/app-release.apk)
 
